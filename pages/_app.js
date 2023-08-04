@@ -15,5 +15,6 @@ function MyApp({ Component, pageProps }) {
     </StateContext>
   )
 }
+CI = false
 
 export default MyApp
